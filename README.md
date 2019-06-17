@@ -1,7 +1,8 @@
 # rakuten-frontend-test
 
 使用技術：
-使用 react + redux + react-redux + material-ui 進行開發，material-ui 僅使用其基本元件
+1) 使用 react + redux + react-redux + material-ui 進行開發
+2) material-ui 僅使用其基本元件
 
 功能：
 1) 新增資料
