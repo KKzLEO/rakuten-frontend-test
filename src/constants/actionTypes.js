@@ -1,0 +1,11 @@
+export const CREATE_USER = 'CREATE_ITEM';
+export const DELETE_USER = 'DELETE_TODO';
+export const MODIFY_USER = 'MODIFY_ITEM';
+
+
+export const CLICK_CREATE_BTN = 'CLICK_CREATE_BTN';
+export const CLICK_MODIFY_BTN = 'CLICK_MODIFY_BTN';
+export const CLICK_DELETE_BTN = 'CLICK_DELETE_BTN';
+export const CLICK_CANCEL_BTN = 'CLICK_CANCEL_BTN';
+export const OPEN_DEL_USR_CONFIRM = 'OPEN_DEL_USR_CONFIRM';
+export const IS_FINISH_DEL_USR = 'IS_FINISH_DEL_USR';

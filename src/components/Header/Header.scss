@@ -1,0 +1,15 @@
+@import '../../scss/variable.scss';
+
+header{
+    background: $primary-bg-color;
+    height: 3rem;
+}
+
+.header-title{
+    color: $primary-text-color;
+    font-size: 20px;
+    margin:0;
+    text-align: center;
+    line-height: 3rem;
+    font-family: $primary-font-family;
+}

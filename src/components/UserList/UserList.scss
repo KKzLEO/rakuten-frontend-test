@@ -1,0 +1,9 @@
+@import '../../scss/variable.scss';
+
+.user-list{
+    @include section-article;
+}
+
+.btn-create-usr{
+    text-align: right;
+}
